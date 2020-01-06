@@ -1,0 +1,18 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "My realization of minesweeper using default canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack",
+    "watch": "webpack --w"
+  },
+  "author": "MrKoyl",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10"
+  }
+}
