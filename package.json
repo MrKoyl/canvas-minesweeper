@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "build": "webpack",
-    "watch": "webpack --w"
+    "watch": "webpack --w",
+    "start": "node index.js"
   },
   "author": "MrKoyl",
   "license": "ISC",
